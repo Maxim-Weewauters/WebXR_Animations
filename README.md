@@ -1,5 +1,5 @@
 # Create an WEBXR Augmented reality app with hitscanning and custom animated models
-Hello, I'm a IT student from 'HOWEST'. My assignment was to create a 'website which can show animated models in augmented reality (AR)'. 
+Hello, I'm an IT student from 'HOWEST'. My assignment was to create a 'website which can show animated models in augmented reality (AR)'. 
 There are a lot of examples on animated models in regular 3d environments but a suprising lack of examples on animated models in an AR environment. 
 
 
